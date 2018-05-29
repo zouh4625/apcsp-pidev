@@ -1,5 +1,0 @@
-#!/bin/bash 
-
-echo "this is fileC"
-echo "this is a change to fileC"
-
